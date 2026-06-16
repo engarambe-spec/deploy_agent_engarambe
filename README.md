@@ -57,3 +57,5 @@ Before finishing, the script performs a health check:
 
 - Interrupting the bootstrap script (Ctrl+C) safely archives and removes any partially created project directory
 - Thresholds can be re-edited directly in `Helpers/config.json` at any time without rerunning the full setup
+
+video link:https://youtu.be/GS7AN7GSBcM
